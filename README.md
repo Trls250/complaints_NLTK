@@ -47,7 +47,7 @@ Files 1-2 are meant to be run one-time to cleanup and standardize data for analy
 
 ### Analyze
 
-  Determine word counts and remove outlier words that occurr too frequently or infrequently.
+  Determine word counts and remove outlier words that occur too frequently or infrequently.
 
 **NLTK 3**
 
